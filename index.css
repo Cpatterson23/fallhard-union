@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.title-page {
+    background: url(rapping.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 50vh;
+}
+
+.fallhard {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+}
+
+
+.topnav {
+    text-decoration: none;
+}
