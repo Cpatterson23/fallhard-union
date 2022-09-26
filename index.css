@@ -15,9 +15,25 @@ body {
 .fallhard {
     font-family: 'Bebas Neue', cursive;
     font-size: 100px;
+    color: red;
 }
 
 
-.topnav {
-    text-decoration: none;
+li {
+    float: right;
+    font-family: 'Bebas Neue', cursive;
+}
+
+a {
+    display: inline-block;
+    padding: 5px;
+    color: red;
+}
+
+p {
+    float: left;
+    width: 250px;
+    font-size: 25px;
+    color: red;
+    margin: 20px;
 }
