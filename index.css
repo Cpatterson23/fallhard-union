@@ -1,19 +1,44 @@
-body {
-    margin: 0;
-    padding: 0;
-    
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
-.title-page {
+
+
+ul a {
+    color: red;
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+}
+
+.navlist li {
+    color: red;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.socialnav a {
+    color: red;
+    margin: 2px;
+    padding: 2px;
+}
+
+
+
+.parent {
     background: url(rapping.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     height: 200vh;
+    width: 100vw;
 }
 
-.fallhard {
+#fallhard {
     font-family: 'Bebas Neue', cursive;
     font-size: 60px;
     color: red;
@@ -22,39 +47,43 @@ body {
 
 }
 
-#navigation {
-    background-color: black;
-    height: 100px;
-    
+#union {
+    font-size: 40px;
+    font-weight: bolder;
 }
 
 
-.topnav a {
-    display: inline-block;
-    padding: 5px;
-    color: whitesmoke;
-    text-decoration: none;
-    font-size: 35px;
-    font-family: 'Bebas Neue', cursive;
-    float: right;
-    margin: 5px;
-    padding: 5px;
-}
 
-.socialnav i {
-    font-size: 2rem;
+
+
+
+
+h2 {
     color: red;
-    margin-top: 50px;
-    padding: 5px;
-    float: right;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 30px;
 }
 
 p {
     width: 500px;
     font-size: 25px;
     color: whitesmoke;
-    margin-top: 300px;
+    margin-top: 500rem;
     margin-left: 20px;
     font-family: 'Bebas Neue', cursive;
+    
+}
 
+#vids {
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+
+.video-links {
+    margin: 130px;
 }
