@@ -8,7 +8,7 @@
 
 ul a {
     color: red;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue';
     text-decoration: none;
 }
 
@@ -24,6 +24,7 @@ ul a {
     color: red;
     margin: 2px;
     padding: 2px;
+
 }
 
 
@@ -55,9 +56,6 @@ ul a {
 
 
 
-
-
-
 h2 {
     color: red;
     font-family: 'Bebas Neue', cursive;
@@ -75,13 +73,13 @@ p {
     margin-top: 500rem;
     margin-left: 20px;
     font-family: 'Bebas Neue', cursive;
-    
+
 }
 
 #vids {
     font-size: 40px;
     font-weight: bolder;
-    
+
 }
 
 .video-links {
