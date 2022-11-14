@@ -85,3 +85,9 @@ p {
 .video-links {
     margin: 130px;
 }
+
+.ham-menu {
+    position: absolute;
+    right: 10px;
+    display: none;
+}
