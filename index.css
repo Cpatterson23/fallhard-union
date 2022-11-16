@@ -76,6 +76,18 @@ p {
 
 }
 
+.shop {
+    color: red;
+    font-family: 'Bebas Neue';
+
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+
+
 #vids {
     font-size: 40px;
     font-weight: bolder;
@@ -90,4 +102,14 @@ p {
     position: absolute;
     right: 10px;
     display: none;
+}
+
+.clothing-pic {
+    align-items: center;
+}
+
+
+
+.merch-button {
+
 }
